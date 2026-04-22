@@ -42,6 +42,11 @@
   --green-dark: #0f5132;
 }
 
+html {
+  overflow: hidden;
+  overflow: scroll;
+}
+
 /* loader */
 @keyframes spinner {
   to {
