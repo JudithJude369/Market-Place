@@ -37,26 +37,6 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-## Project Structure
-
-## Project Structure
-
-src/
-├── components/
-│ ├── SearchBar.tsx
-│ ├── Products.tsx
-│ ├── BottomNav.tsx
-│ └── Loading.tsx
-├── App.tsx
-└── main.tsx
-
-## API
-
-Products are fetched from:
-(https://dummyjson.com/products/search?q={searchTerm})
-
-Empty search returns all products. React Query caches results per search term — no duplicate requests.
-
 ## Screenshots
 
 > _Add screenshots or a screen recording here_
