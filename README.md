@@ -38,8 +38,9 @@ npm run dev
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Screenshots
+<img width="1763" height="4039" alt="market-place-screenshot" src="https://github.com/user-attachments/assets/a487bf36-4b31-449d-ac25-0d2da7a6133a" />
 
-> _Add screenshots or a screen recording here_
+
 
 ## Live Demo
 
