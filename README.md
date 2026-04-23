@@ -43,4 +43,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Live Demo
 
-> _Add Vercel / Netlify link here_
+🌐 [Live Site URL](https://market-place-phi-six.vercel.app/)

@@ -36,7 +36,7 @@ const Products = ({ searchTerm }: { searchTerm: string }) => {
   if (response.data.length < 1)
     return (
       <p className="text-center text-gray-500 mt-12">
-        No results found for {searchTerm}.
+        No results found for {searchTerm}
       </p>
     );
 
